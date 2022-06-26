@@ -1,6 +1,5 @@
 
-  # ItsBook
-  <br>
+  # ItsBook <br>
   [ItsBook](https://boiling-badlands-68720.herokuapp.com/) <-- Click Here to go to deployed app.
   ## Apache
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
